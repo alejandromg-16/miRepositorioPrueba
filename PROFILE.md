@@ -1,6 +1,4 @@
 welcome to My Github profile
 
 
-Me llamo alejandro moraga garcia
-
-Estoy explorando Github para gestionar los cambios de este fichero 
+nuevos cambios soy alejandro moraga y este es mi nuevo fichero 
